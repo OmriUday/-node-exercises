@@ -1,0 +1,24 @@
+[
+  {
+    "id": "123",
+    "firstName": "Omri",
+    "lastName": "Uday",
+    "score": 78,
+    "isActive": true,
+    "owner": null
+  },
+  {
+    "id": "123456",
+    "firstName": "Roey",
+    "lastName": "Uday",
+    "score": 92,
+    "isActive": true
+  },
+  {
+    "id": "123456789",
+    "firstName": "Lihi",
+    "lastName": "Uday",
+    "score": 68,
+    "isActive": true
+  }
+]
